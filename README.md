@@ -11,8 +11,9 @@ The latest update for this XML file is **12/08/2021**
 To use this file in your Sophos Firewall, perform the following:
 
 1) Download the XML File
-2) Log into your SFOS Platform
-3) Navigate to System > Backup & Firmware > Import export
-4) Import the XML file 
-5) Assign the URL group to your policies
+2) Follow this read: https://community.sophos.com/sophos-xg-firewall/f/recommended-reads/122450/creating-xml-objects-with-notepad-for-mass-import
+3) Log into your SFOS Platform
+4) Navigate to System > Backup & Firmware > Import export
+5) Upload your tar
+6) Assign the URL group to your policies
 
