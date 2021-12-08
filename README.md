@@ -3,6 +3,7 @@
 This repo serves as a one stop shop to grab the latest XML format of the popular project LOTS or Living Off Trusted Sites project.
 
 Full Project Location: https://lots-project.com
+
 Special Credit to https://twitter.com/mrd0x for building this excellent resource and check out his other research: https://mrd0x.com
 
 The latest update for this XML file is **12/08/2021**
